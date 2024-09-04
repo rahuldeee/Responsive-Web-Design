@@ -1,1 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="tribute-page.css">
+</head>
 
+<body>
+  <main id="main">
+  <h1 id="title">Che Guevara</h1>
+  <p>Ernesto Che Guevara was a prominent communist figure in the Cuban Revolution.</p>
+  <figure id="img-div">
+    <img id="image" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/330px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg" alt="Che Guevara">
+    <figcaption id="img-caption">
+    Guerrillero Heroico, 1960
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here is a timeline of Che's life:</h3>
+<ul>
+  <li><strong>JUNE 14, 1928</strong>
+ - Che Guevara was born in Rosario, Argentina
+  </li>
+  <li><strong>
+1948
+</strong>
+ - Guevara entered the University of Buenos Aires to study medicine</li>
+  <li><strong>1950</strong>
+ - solo trip through the rural provinces of northern Argentina on a bicycle on which he installed a small engine.</li>
+  <li><strong>1953</strong>
+ - Che Guevara completed his studies and received his medical degree</li>
+  <li><strong>1954</strong>
+ - Guevara meets Cuban Ñico López, a veteran of the Moncada attack.</li>
+  <li><strong>1954</strong>
+ - Guevara arrived in Mexico City and worked in the allergy section of the General Hospital and at the Hospital Infantil de Mexico</li>
+  <li><strong>1955</strong>
+In Mexico City, Ñico López arranges for Guevara to meet Raúl Castro. Guevara joins the revolutionary effort.</li>
+  <li><strong>1955</strong>
+ - Che Guevara married Gadea before embarking on his plan to assist in the liberation of Cuba</li>
+  <li><strong>1958</strong>
+ - Guevara leads his troops from the Sierra Maestra toward Las Villas Province (in Central Cuba). He later joins the March 13 Revolutionary Directorate in signing the Pedrero Pact, and continues moving his troops westward.</li>
+  <li><strong>1964</strong>
+ - Guevara travels to New York to speak at the United Nations, and then embarks on a 3-month visit to Africa.</li>
+  <li><strong>1965</strong>
+ - Guevara made his last public appearance on the international stage when he delivered a speech at an economic seminar on Afro-Asian solidarity.</li>
+  <li><strong>1965</strong>
+Guevara delivers a farewell letter to Castro. He leaves Cuba to visit the Congo using the name Tatú (Swahili for "number two") to hide his true identity.</li>
+<li><strong>1966</strong>
+ - Using a fake name and passport, Guevara arrives in Bolivia and joined the rebel camp there.</li>
+<li><strong>1968</strong>
+ - Guevara was captured by the Bolivian army and killed in La Higuera</li>
+
+</ul>
+<blockquote cite="https://libquotes.com/jean-paul-sartre/quote/lbg4p7z">
+  <p>You know how much I admire Che Guevara. In fact, I believe that the man was not only an intellectual but also the most complete human being of our age: as a fighter and as a man, as a theoretician who was able to further the cause of revolution by drawing his theories from his personal experience in battle.
+</p>
+<cite>Jean-Paul Sartre</cite>
+</blockquote>
+<h3>
+If you have time, you should read more about this incredible human being on his
+<a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Che_Guevara"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+  </section>
+</main>
+</body>
+  
+</html>
